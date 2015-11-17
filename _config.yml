@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Dev.Thoughts()
+title: dev.blog()
 
 # Short description of your site
-description: Random develeopment thoughts
+description: a blog for my projects and development musings
 
 # --- Navigation bar options --- #
 
