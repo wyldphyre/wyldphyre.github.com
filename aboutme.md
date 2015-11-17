@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Craig Reynolds. Since 2001 I've worked as an application developer for [Kestral Computing](www.kestral.com.au). The focus, the the early days, was on a pathology lab system software, but since about 2005 I've spent most of my time working on our [Karisma](http://www.kestral.com.au/products-Karisma.html) radiology software.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+In my spare time I occasionally work on a personal application or knock up a script of some sort to scratch an itch that is annoying me. Nothing fancy, but I find them both handy and cool.
