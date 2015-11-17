@@ -29,7 +29,7 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  Contact: "contact"
+#  Contact: "contact"
 
 # --- Footer options --- #
 
