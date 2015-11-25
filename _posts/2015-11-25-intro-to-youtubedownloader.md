@@ -24,14 +24,14 @@ What I wanted was:
  
  I could get around this to some degree my watching on my phone using mobile data, or my iPad tethered to my iPhone, but that solution was limited. I only have 1.5 GB of mobile data per month, and that would get chewed up quick enough watching video. Plus, ideally, I'd like to be able to watch the videos on the larger screen of my TV. 
 
-## Dashed Hopes  &nbsp;&nbsp; (ᵕ̣̣̣̣̣̣﹏ᵕ̣̣̣̣̣̣)
+## Dashed Hopes  &nbsp; (ᵕ̣̣̣̣̣̣﹏ᵕ̣̣̣̣̣̣)
 There was a period of time several years back when YouTube provided a way to get an RSS feed of a YouTube channel. It wasn't easy, but it could be done. And I'm a big fan of RSS. Great! That's would be part of the solution to getting automation rolling.
 
 But no. With an RSS feed you could add it to your feed reader of choice and get prompt notification of when new videos were available, but that didn't solve the downloading side of things. I'm sure there were tools around that could download the videos but I never found a good one in the little bit of looking I did. And it's kind of a moot point these days since as far as I can tell it's been practically impossible to get an RSS feed out of YouTube for the last couple of years. I guess they really want you to watch videos on the website or in one of their apps.
 
 There are also a plethora of websites out there that offer to download YouTube videos for you. You provide the URL of the video and after a little while they give you a link to download the video. I've tried a few here and there, but they tended not to be very good, and they certainly didn't get my any closer to an automated system.
 
-## A New Hope &nbsp;&nbsp; ヽ(^。^)丿
+## A New Hope &nbsp; ヽ(^。^)丿
 And then by chance I recently became aware of a nifty Python script called [youtube-dl](http://rg3.github.io/youtube-dl/). And what does this little beauty do? Why, it takes all the pain out of downloading YouTube videos (and many other sites apparently, but I haven't tried any of them). Usage is simple enough via the command line, but even better, they've built it to be easy to call as a component of a Python script, and provided a nice simple example of how to do so.
 
 So this gets me thinking. I've written a few small, handy Python scripts before. I've got the remarkably useful [Workflow](https://workflow.is) app on my iOS devices. Yep, with those pieces I should be able to largely automate downloading of YouTube content and finally fulfil that dream of mine. Let's do this! ( ᐛ )و
