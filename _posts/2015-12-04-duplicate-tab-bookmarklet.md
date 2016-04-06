@@ -9,6 +9,6 @@ So I created a simple bookmarklet that would provide the same feature in Safari.
 
 Here it is, in all its tiny glory.
 
-{% highlight javascript %}
+```javascript
 javascript:(function(){window.open(window.location.href);})()
-{% endhighlight %}
+```
