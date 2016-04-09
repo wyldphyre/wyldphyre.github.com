@@ -60,7 +60,7 @@ Should I happen to be on my Mac instead of an iOS device when I come across a vi
 - Open terminal and `cd` to the folder the files are stored in
 - use the following command to create a file with the contents of the clipboard in it…
 
-```bash
+``` bash
 $ pbpaste > made_up_file_name.queue
 ```
 
@@ -97,7 +97,7 @@ Now we can move on to processing files:
 
 Here is the script as it exists at this point in time.
 
-```python
+``` python
 #! /usr/bin/env python
 
 from __future__ import unicode_literals
