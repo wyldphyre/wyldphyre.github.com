@@ -73,7 +73,7 @@ Once the YouTube URL is saved to my Dropbox, how will I get the python script to
 
 I have a Mac Mini that is my desktop computer, and it's always running. I already have [Hazel](http://www.noodlesoft.com/hazel.php) running on the Mac Mini, doing a variety of things, so adding one more small task to it's list was a simple decision to make.
 
->*If you've never used Hazel, it's another app that is really great for helping to automate things on OS X.*
+>*If you've never used Hazel, it's an app that is really great for helping to automate things on OS X. This is another tool that automators and power users should absolutely try.*
 
 So I have Hazel monitor the folder in Dropbox into which the files containing the URLs are saved. When Hazel detects a new file in the folder it triggers my YouTubeDownloader script.
 
