@@ -1,7 +1,7 @@
---
+---
 title: An Introduction To the Goodreads Amazon Search Bookmarklet
 layout: post
---
+---
 
 This is a perfect example of a situation where I had a personal annoyance and created a solution to scratch my itch.
 
