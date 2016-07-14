@@ -12,3 +12,14 @@ Because I use the Australian Amazon website, the bookmarklet works with the Aust
 
 # Why I made it
 I created this bookmarklet after several times finding myself on the [Goodreads](http://www.goodreads.com) website and wanting to look up a book on Amazon, but being frustrated that of the search options that Goodreads provided, an Amazon search was available. You have to to open an Amazon page and search yourself, entering booking information by hand in order to perform a search. After doing this a number of times I found that it was more annoyance than I was willing to put up with, so after a small amount of effort that I put together this bookmarklet. 
+
+# The Code
+
+```javascript
+javascript:(function(){
+    var bookTitle = document.getElementById("bookTitle").firstChild.data;
+    var firstAuthor = document.getElementsByClassName("authorName")[0].firstChild.innerHTML;
+    var titleAndFirstAuthor = (bookTitle.trim() + " " + firstAuthor).replace(/\s/g, "+");
+
+    window.open("http://www.amazon.com.au/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=" + titleAndFirstAuthor);})()
+```
