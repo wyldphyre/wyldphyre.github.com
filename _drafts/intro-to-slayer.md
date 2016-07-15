@@ -1,7 +1,7 @@
---
+---
 title: An Introduction To Slayer
 layout: post
---
+---
 
 Like so many handy utility applications, Slayer is something I created to scratch my own itch. I work as a developer and periodically find myself needing to kill a process. The processes I want to kill are early always one of a handful that I work with regularly. Slayer makes it easy for me to kill these processes. I could certainly do what it does by hand, but this saves me time and annoyance.
 
