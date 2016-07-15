@@ -21,7 +21,7 @@ When several processes have bee configured, one of them can be set as default. T
 
 Here's an example of what Slayer looks like in my most typical use case.
 
-![Slayer ready to kill two instances of Delphi 5]({{site.url}}/assets/slayer_example.png)
+![Slayer ready to kill two instances of Delphi 5](/assets/slayer_example.png)
 
 # Points of interest?
 
