@@ -13,7 +13,7 @@ Because I use the Australian Amazon website, the bookmarklet works with the Aust
 
 # Why I made it
 
-I created this bookmarklet after several times finding myself on the [GoodReads](http://www.goodreads.com) website and wanting to look up a book on Amazon, but being frustrated that of the search options that GoodReads provided, an Amazon search was not available. You have to to open an Amazon page and search yourself, entering the book information by hand. After doing this several times I found that it was more annoyance than I was willing to put up with, so I put together this bookmarklet.
+I created this bookmarklet after several times finding myself on the [GoodReads](http://www.goodreads.com) website, wanting to look up a book on Amazon, but being frustrated that an Amazon search was not available among the search options that GoodReads provided. You have to to open an Amazon page and search yourself, entering the book information by hand. After doing this several times I found that it was more annoyance than I was willing to put up with, so I put together this bookmarklet.
 
 # The Code
 
